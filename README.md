@@ -1,2 +1,2 @@
-# react-complete-guide
+# React complete guide
 Course of React from Udemy
